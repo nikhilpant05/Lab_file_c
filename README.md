@@ -63,3 +63,4 @@ This repository contains many small C programs, each in a separate file, includi
 - To provide a hands-on collection of foundational C programs for beginners/intermediate learners.  
 - Useful for students learning C, or anyone wanting simple examples demonstrating basic programming concepts: input/output, control flow, loops, arrays, pointers, data structures, file I/O, and basic algorithms.  
 - Acts as a reference or revision repository for common programming tasks in C.  
+
