@@ -56,11 +56,10 @@ This repository contains many small C programs, each in a separate file, includi
 - `48_file_count_lwc.c` — Count lines / words / characters (or similar) in a file — demo  
 - `49_merge_two_arrays.c` — Merge two arrays into one (example)  
 
-...and possibly more as you add them.  
-
 ## 🧰 Purpose
 
 - To provide a hands-on collection of foundational C programs for beginners/intermediate learners.  
 - Useful for students learning C, or anyone wanting simple examples demonstrating basic programming concepts: input/output, control flow, loops, arrays, pointers, data structures, file I/O, and basic algorithms.  
 - Acts as a reference or revision repository for common programming tasks in C.  
 
+BY NIKHIL PANT
