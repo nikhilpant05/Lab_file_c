@@ -1,4 +1,3 @@
-// By Shorya
 #include <stdio.h>
 
 long factorial_recursive(int n) {

@@ -1,4 +1,4 @@
-// By Shorya
+
 #include <stdio.h>
 
 int cube(int x) {

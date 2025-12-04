@@ -1,4 +1,3 @@
-// By Shorya
 #include <stdio.h>
 
 #define ADD(a, b) ((a) + (b))

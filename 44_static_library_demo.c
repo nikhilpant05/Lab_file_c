@@ -1,7 +1,6 @@
-// By Shorya
+
 #include <stdio.h>
 
-// Imagine this function is in a static library
 int add(int a, int b) {
     return a + b;
 }
